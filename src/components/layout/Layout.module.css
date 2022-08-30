@@ -1,5 +1,6 @@
 .main {
-    margin: 3 rem auto;
+    margin: 3 rem;
+    margin: auto;
     width: 90%;
     max-width: 40rem;
 }
